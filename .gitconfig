@@ -1,3 +1,5 @@
 [user]
 	name = RenuChauhan365
 	email = renu247932gmail.com
+[core]
+	autocrlf = false
